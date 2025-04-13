@@ -21,7 +21,7 @@ This repository contains the following contents.
 # Demo
 Here's how to run the demo using your webcam.
 ```bash
-python app.py
+python hand-gesture-detection.py
 ```
 
 The following options can be specified when running the demo.
